@@ -86,12 +86,6 @@ body {
 	float: none !important;
 }
 
-.changenow_banner {
-	display: block;
-	margin-left: -15px;
-	margin-top: 660px;
-}
-
 #changenow_img {
 	max-width: 100%;
 }
@@ -102,10 +96,9 @@ body {
 }
 
 #banner {
-	border:none;
-	position: absolute;
-	margin-top: 560px;
-	margin-left:-104px;
+	display: block;
+	margin-left: -15px;
+	margin-top: 5px;
 }
 
 .guarda_banner {
