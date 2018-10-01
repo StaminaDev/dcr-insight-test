@@ -96,9 +96,10 @@ body {
 }
 
 #banner {
-	display: block;
-	margin-left: -15px;
-	margin-top: 5px;
+	border: none;
+	position: absolute;
+	margin-top: 560px;
+	margin-left: 5px;
 }
 
 .guarda_banner {
